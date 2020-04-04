@@ -10,7 +10,7 @@
 
 ### 二、kernel
 
-#### [1. kernel启动过程](./kernel启动过程.md)
+#### [1. kernel启动过程](./kernel/kernel启动过程.md)
 
 #### [2. linux设备树分析](https://github.com/TonySudo/LinuxDTS)
 
